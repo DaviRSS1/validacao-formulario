@@ -1,7 +1,5 @@
-
+<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 <hr>
-
-<h1 align= "center">Validando Formulários</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
 </p>

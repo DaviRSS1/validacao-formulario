@@ -2,12 +2,30 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+<h1 align= "center">Validando Formulários</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+</p>
+Site feito com o curso de JavaScript: validando formulários com intuito de aprender a validar um formulario de cadastro
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
+# 📁 Acesso ao projeto
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+Você pode <a href="https://github.com/DaviRSS1/validacao-formulario/archive/refs/heads/main.zip" target="_blank">baixá-lo</a> ou <a href="https://validacao-formulario-pink.vercel.app/" target="_blank">abrir o link</a>.
+
+# 🛠️ Abrir e rodar o projeto
+
+Para rodar o projeto no seu computador basta:
++ Descompactar o .zip
++ Abrir o arquivo .html dentro da pasta extraída
+
+# ✔️ Tecnologias Usadas
+
+- ``HTML``
+- ``CSS``
+- ``JavaScript`` 
+
+# Autor
+
+Davi Reghim de Salles Santana
+
+https://www.linkedin.com/in/davi-reghim-13b995272/
